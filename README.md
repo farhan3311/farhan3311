@@ -1,10 +1,9 @@
 <h1 align="center">Hi , I'm Farhan Sidat <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <br><br>
- I am a inspiring software developer recently completed training at [LaFoss](https://www.lafosseacademy.com/). Recently graduated with `MSc Software Engineering and Applications` at [University of Bedfordshire](https://www.beds.ac.uk/). Previously, worked as an `iOS Application Developer`  at [Techno Heaven](https://technoheaven.net/) and `UI Developer` at [Vibrant Print Shop](https://www.vibrantprintshop.com/). Also I have complete my bachelor degree with `Information Technology` at [Gujarat Technological University](https://www.gtu.ac.in/).
+ I am an inspiring software developer who recently completed training at [LaFoss](https://www.lafosseacademy.com/), and graduated with an `MSc Software Engineering and Applications` from the [University of Bedfordshire](https://www.beds.ac.uk/). Previously, I worked as an `iOS Application Developer` at [Techno Heaven](https://technoheaven.net/) and a `UI Developer` at [Vibrant Print Shop](https://www.vibrantprintshop.com/). Also, I have completed my bachelor's degree in `Information Technology` at [Gujarat Technological University](https://www.gtu.ac.in/).
 <br/>
  <h4>Looking for a software developer job opportunity 🚀</h4>
-<br/>
 <br/>
 
 ## My Github Status
@@ -18,7 +17,6 @@
 <br/>
 
 ### Frontend Development
-<br/>
 <p> 
   <a href="https://www.w3.org/html/" target="_blank"> 
    <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
@@ -56,7 +54,6 @@
     <img alt="Elementor" src="https://img.shields.io/badge/Elementor%20-%231c1c1c.svg?style=for-the-badge&logo=elementor">
   </a> 
 </p>
-  &emsp; 
 
 ### Backend Development
 <p> 
