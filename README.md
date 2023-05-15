@@ -1,8 +1,5 @@
 <h1 align="center">Hi , I'm Farhan Sidat <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<br>
 
-	
-## About me
 <br><br>
  I am a inspiring software developer recently completed training at [LaFoss](https://www.lafosseacademy.com/). Recently graduated with `MSc Software Engineering and Applications` at [University of Bedfordshire](https://www.beds.ac.uk/). Previously, worked as an `iOS Application Developer`  at [Techno Heaven](https://technoheaven.net/) and `UI Developer` at [Vibrant Print Shop](https://www.vibrantprintshop.com/). Also I have complete my bachelor degree with `Information Technology` at [Gujarat Technological University](https://www.gtu.ac.in/).
   &emsp; 
