@@ -38,24 +38,24 @@
      <img alt="React" src="https://img.shields.io/badge/React%20-%231c2c4c.svg?style=for-the-badge&logo=react&logoColor=88dded">
    </a>
    &emsp;
-  <a href="https://react.dev/" target="_blank"> 
+  <a href="" target="_blank"> 
      <img alt="Bootstarp" src="https://img.shields.io/badge/Bootstrap%20-%23a020f0.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
    </a>
      &emsp; 
   <a href="https://developer.apple.com/swift/" target="_blank"> 
-    <img alt="Swift" src="https://img.shields.io/badge/Swift%20-%23ffffff.svg?style=for-the-badge&logo=swift&logoColor=orange">
+    <img alt="Swift" src="https://img.shields.io/badge/Swift%20-%231c1c1c.svg?style=for-the-badge&logo=swift">
   </a> 
     &emsp; 
   <a href="https://developer.apple.com/swift/" target="_blank"> 
-    <img alt="Objective-C" src="https://img.shields.io/badge/Objective-C%20-%23ffffff.svg?style=for-the-badge&logo=objective-c&logoColor=orange">
+    <img alt="Objective-C" src="https://img.shields.io/badge/Objective-C%20-%231c1c1c.svg?style=for-the-badge&logo=objective-c">
   </a>
       &emsp; 
   <a href="https://developer.apple.com/swift/" target="_blank"> 
-    <img alt="Wordpress" src="https://img.shields.io/badge/Wordpress%20-%23ffffff.svg?style=for-the-badge&logo=wordpress&logoColor=blue">
+    <img alt="Wordpress" src="https://img.shields.io/badge/Wordpress%20-%231c1c1c.svg?style=for-the-badge&logo=wordpress">
   </a> 
     &emsp; 
   <a href="https://developer.apple.com/swift/" target="_blank"> 
-    <img alt="Elementor" src="https://img.shields.io/badge/Elementor%20-%23ffffff.svg?style=for-the-badge&logo=elementor&logoColor=a020f0">
+    <img alt="Elementor" src="https://img.shields.io/badge/Elementor%20-%231c1c1c.svg?style=for-the-badge&logo=elementor">
   </a> 
 </p>
   &emsp; 
@@ -66,15 +66,15 @@
 <p align="center"> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="Node.js" src="https://img.shields.io/badge/Node.js%20-%23fff.svg?style=for-the-badge&logo=node.js&logoColor=#3c873a">
+   <img alt="Node.js" src="https://img.shields.io/badge/Node.js%20-%231c1c1c.svg?style=for-the-badge&logo=node.js">
   </a> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="Express.js" src="https://img.shields.io/badge/Express.js%20-%23fff.svg?style=for-the-badge&logo=express.js&logoColor=#3c873a">
+   <img alt="Express.js" src="https://img.shields.io/badge/Express.js%20-%231c1c1c.svg?style=for-the-badge&logo=express.js">
   </a> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="PHP" src="https://img.shields.io/badge/PHP%20-%23fff.svg?style=for-the-badge&logo=PHP&logoColor=#3c873a">
+   <img alt="PHP" src="https://img.shields.io/badge/PHP%20-%231c1c1c.svg?style=for-the-badge&logo=PHP">
   </a> 
 
 ### Test Driven Development
@@ -83,11 +83,11 @@
 <p align="center"> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="Jest" src="https://img.shields.io/badge/Jest%20-%2315c213.svg?style=for-the-badge&logo=jest&logoColor=white">
+   <img alt="Jest" src="https://img.shields.io/badge/Jest%20-%23.svg?style=for-the-badge&logo=jest">
   </a> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="Vitest" src="https://img.shields.io/badge/vitest%20-%23a020f0.svg?style=for-the-badge&logo=vitest">
+   <img alt="Vitest" src="https://img.shields.io/badge/vitest%20-%231c1c1c.svg?style=for-the-badge&logo=vitest">
   </a> 
 
  ### Software, Tools & IDEs
@@ -101,9 +101,9 @@
 &emsp;
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="XCode" src="https://img.shields.io/badge/XCode-%23fff.svg?style=for-the-badge&logo=xcode&logoColor=blue" /></a>
+    <a href="#"><img alt="XCode" src="https://img.shields.io/badge/XCode-%231c1c1c.svg?style=for-the-badge&logo=xcode" /></a>
   &emsp;
-      <a href="#"><img alt="XCode" src="https://img.shields.io/badge/Command Line Interface-%23fff.svg?style=for-the-badge&logo=clie&logoColor=blue" /></a>
+      <a href="#"><img alt="XCode" src="https://img.shields.io/badge/Command Line Interface-%231c1c1c.svg?style=for-the-badge&logo=CLI" /></a>
   &emsp;
   
 </p>
