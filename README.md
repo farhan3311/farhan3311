@@ -14,7 +14,6 @@
 <br/>
 
 ## 🛠️ My Skills
-<br/>
 
 ### Frontend Development
 <p> 
