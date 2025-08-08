@@ -61,10 +61,6 @@
   </a> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="Express.js" src="https://img.shields.io/badge/Express.js%20-%231c1c1c.svg?style=for-the-badge&logo=express.js">
-  </a> 
-  &emsp; 
-  <a href="https://www.w3.org/html/" target="_blank"> 
    <img alt="PHP" src="https://img.shields.io/badge/PHP%20-%231c1c1c.svg?style=for-the-badge&logo=PHP">
   </a> 
 
